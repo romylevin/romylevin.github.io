@@ -1,0 +1,24 @@
+h1 {
+  color: #FFCD6D;
+  font-family: helvetica;
+  font-size: 100px;
+  text-shadow: 4px 4px #ff0000;
+  background-color: #bdf3ef;
+}
+p.bio {
+  color: #000000;
+  font-family: helvetica;
+  font-size: 23px;
+  text-shadow: 2px 2px #ffffff;
+  font-style: italic;
+  font-weight: bold;
+}
+p {
+  font-family: helvetica;
+  font-size: 15px
+}
+body {
+  background-image:url("blue.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
