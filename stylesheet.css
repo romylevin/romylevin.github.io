@@ -33,10 +33,17 @@ p.game {
   font-style: normal;
   text-align:left;
 }
-a {color: #000000;
+a.reflection {
+color: #000000;
 font-family: helvetica;
-text-align: center;
 font-size: 15px;
 font-style: italic;
 font-weight: bold;
+text-align: center;
 }
+h1.reflection {
+  color: #006622;
+  font-family: helvetica;
+  font-size: 100px;
+  text-shadow: 4px 4px #993399;
+  text-align: center;
