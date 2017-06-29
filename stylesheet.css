@@ -35,8 +35,8 @@ p.game {
 }
 a {color: #000000;
 font-family: helvetica;
+text-align: center;
 font-size: 15px;
 font-style: italic;
 font-weight: bold;
-text-align: center;
 }
