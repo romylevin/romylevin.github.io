@@ -9,16 +9,27 @@ p.bio {
   color: #000000;
   font-family: helvetica;
   font-size: 23px;
-  text-shadow: 2px 2px #;
   font-style: italic;
   font-weight: bold;
+  text-align: center;
 }
 p {
   font-family: helvetica;
-  font-size: 15px
+  font-size: 15px;
+  text-align: center;
 }
-body {
-  background-image:url();
-  background-size: cover;
-  background-repeat: no-repeat;
+p.MyWorks {
+  color: #000000;
+  font-family: helvetica;
+  font-size: 23px;
+  font-style: italic;
+  font-weight: bold;
+  text-align: center;
+}
+p.game {
+  color: #000000;
+  font-family: helvetica;
+  font-size: 20px;
+  font-style: normal;
+  text-align: center;
 }
