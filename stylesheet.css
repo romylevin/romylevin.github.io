@@ -37,9 +37,9 @@ p.game {
   font-style: normal;
   text-align:left;
 }
-img.center {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
+img {
+display: block;
+    margin: auto;
+    width: 40%;
 }
 
