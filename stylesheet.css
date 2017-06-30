@@ -41,3 +41,32 @@ font-style: italic;
 font-weight: bold;
 text-align: center;
 }
+h1.reflection {
+  color: #006622;
+  font-family: helvetica;
+  font-size: 100px;
+  text-shadow: 4px 4px #993399;
+  text-align: center;
+}
+h2 {
+  color: black;
+  font-family: helvetica;
+  text-align: center;
+}
+h3 {
+  font-family: helvetica;
+  text-align: center;
+}
+.centerpic {
+  width: 810px;
+  margin: auto;
+}
+.box {
+    border-radius: 95px;
+    border: 2px solid #000099;
+    padding: 20px;
+    margin-bottom: 10px;
+    width: 800px;
+    height: 250px;
+}
+
