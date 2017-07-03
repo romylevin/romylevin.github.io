@@ -1,16 +1,16 @@
-h1.reflection {
+H1.reflection {
   color: #006622;
   font-family: helvetica;
   font-size: 100px;
   text-shadow: 4px 4px #993399;
   text-align: center;
 }
-h2 {
+H2 {
   color: black;
   font-family: helvetica;
   text-align: center;
 }
-h3 {
+H3 {
   font-family: helvetica;
   text-align: center;
 }
