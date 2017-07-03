@@ -4,12 +4,6 @@ h1 {
   font-size: 100px;
   text-shadow: 4px 4px #ff0000;
   text-align: center;
-}
-a.reflection {
-  font-family: helvetica;
-  font-style: italic;
-  font-weight: bold;
-  text-align: center;
 } 
 p.bio {
   color: #000000;
